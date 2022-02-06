@@ -1,0 +1,2300 @@
+{
+    "lens_id": "",
+    "document_id": "c3rr8-lonqhd0UKFDWHo",
+    "original_document_id": "c3rr8-lonqhd0UKFDWHo",
+    "version": "28",
+    "lastChanged": "1637244605030",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Bitmoji Office Pack Resources"
+                    ],
+                    [
+                        "Bitmoji Office Pack Resources",
+                        "Meshes"
+                    ],
+                    [
+                        "Bitmoji Office Pack Resources",
+                        "Meshes",
+                        "podium_speech"
+                    ],
+                    [
+                        "Bitmoji Office Pack Resources",
+                        "Meshes",
+                        "podium_speech",
+                        "Material"
+                    ],
+                    [
+                        "Bitmoji Office Pack Resources",
+                        "Meshes",
+                        "podium_speech",
+                        "Material",
+                        "podium_speech"
+                    ],
+                    [
+                        "Bitmoji Office Pack Resources",
+                        "Meshes",
+                        "podium_speech",
+                        "Meshes"
+                    ],
+                    [
+                        "Bitmoji Office Pack Resources",
+                        "Meshes",
+                        "podium_speech",
+                        "Meshes",
+                        "C_podium_speech_GEO"
+                    ],
+                    [
+                        "Bitmoji Office Pack Resources",
+                        "Textures"
+                    ],
+                    [
+                        "Bitmoji Office Pack Resources",
+                        "Textures",
+                        "podium_speech_color"
+                    ],
+                    [
+                        "Default"
+                    ],
+                    [
+                        "Default",
+                        "Device Camera Texture"
+                    ],
+                    [
+                        "Default",
+                        "Echopark"
+                    ],
+                    [
+                        "Default",
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Default",
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "Collage Example",
+                        "Gradient"
+                    ],
+                    [
+                        "Materials",
+                        "Collage Example",
+                        "Rounded Device Camera Texture"
+                    ],
+                    [
+                        "Materials",
+                        "Collage Example",
+                        "Rounded Media Picker"
+                    ],
+                    [
+                        "Media Picker [EDIT_ME]"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "Behavior"
+                    ],
+                    [
+                        "Scripts",
+                        "Toggle Picker on Tap"
+                    ],
+                    [
+                        "Segmentation Texture [EDIT_ME]"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Heading Gradient"
+                    ],
+                    [
+                        "Textures",
+                        "Sub Heading Gradient"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1629743954639670:652527",
+                    "1629744059684468:678236",
+                    "1629766068648697:556170",
+                    "1629766315923561:621783",
+                    "1629766574675795:697677"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "58e741ee96a0432607760c4170e1b1c0",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "greenscreen",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "HermosaUseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1629766315923768:621784"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1634867115070860:45216"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "1629765255634340:358255"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1629740866718007:156986",
+                    "name": "Media Picker",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1629743942162242:648854",
+                    "name": "Files\/File82.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1629743942232383:648868",
+                    "name": "Files\/File84",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1629743942519189:648891",
+                    "name": "Files\/File86.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1629764047572901:20204",
+                    "name": "Files\/File114.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1629764143819252:39240",
+                    "name": "Files\/File118.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "124",
+                    "uid": "1629765140005388:290944",
+                    "name": "Files\/File198.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "126",
+                    "uid": "1629765255634340:358255",
+                    "name": "Files\/File200",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "127",
+                    "uid": "1629766531344197:685178",
+                    "name": "Files\/File202",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "131",
+                    "uid": "1634866975729124:11595",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "132",
+                    "uid": "1634867040825560:27504",
+                    "name": "Files\/File213",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "134",
+                    "uid": "1634867115070860:45216",
+                    "name": "Files\/File219",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1629740858767773:155057",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629740858862570:155203",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629744059789649:678435",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629757304981509:402789",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629757386186441:437494",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629766574676393:697679",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629766574702087:697813",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629766633154987:724755",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1629766674260573:741706",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1629740858754139:154989",
+                "4": "1629740858767295:155055",
+                "5": "1629740858862407:155202",
+                "6": "1629743954974317:652974",
+                "7": "1629744059683585:678234",
+                "8": "1629744059684468:678236",
+                "9": "1629757304981292:402788",
+                "10": "1629757386151245:437230",
+                "11": "1629765113426745:284565",
+                "12": "1629765140046427:290960",
+                "13": "1629766068648697:556170",
+                "14": "1629766574675795:697677",
+                "15": "1629766574701954:697812",
+                "16": "1629766633118030:724487",
+                "17": "1629766674225722:741442"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Back Ortho Layer",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.mesh"
+                },
+                {
+                    "k": "83",
+                    "v": "Files\/File83.mesh"
+                },
+                {
+                    "k": "84",
+                    "v": "Files\/File84"
+                },
+                {
+                    "k": "85",
+                    "v": "Files\/File85.lsmat"
+                },
+                {
+                    "k": "86",
+                    "v": "Files\/File86.pvr"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87.png"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.png"
+                },
+                {
+                    "k": "102",
+                    "v": "Files\/File102.pvr"
+                },
+                {
+                    "k": "114",
+                    "v": "Files\/File114.jpg"
+                },
+                {
+                    "k": "115",
+                    "v": "Files\/File115.jpg"
+                },
+                {
+                    "k": "118",
+                    "v": "Files\/File118.jpg"
+                },
+                {
+                    "k": "119",
+                    "v": "Files\/File119.jpg"
+                },
+                {
+                    "k": "120",
+                    "v": "Files\/File120.jpg"
+                },
+                {
+                    "k": "121",
+                    "v": "Files\/File121.jpg"
+                },
+                {
+                    "k": "122",
+                    "v": "Files\/File122.jpg"
+                },
+                {
+                    "k": "123",
+                    "v": "Files\/File123.jpg"
+                },
+                {
+                    "k": "198",
+                    "v": "Files\/File198.js"
+                },
+                {
+                    "k": "200",
+                    "v": "Files\/File200"
+                },
+                {
+                    "k": "201",
+                    "v": "Files\/File201.lsscript"
+                },
+                {
+                    "k": "202",
+                    "v": "Files\/File202"
+                },
+                {
+                    "k": "203",
+                    "v": "Files\/File203.lsmat"
+                },
+                {
+                    "k": "212",
+                    "v": "Files\/File212.mesh"
+                },
+                {
+                    "k": "213",
+                    "v": "Files\/File213"
+                },
+                {
+                    "k": "214",
+                    "v": "Files\/File214.lsmat"
+                },
+                {
+                    "k": "219",
+                    "v": "Files\/File219"
+                },
+                {
+                    "k": "220",
+                    "v": "Files\/File220.lsmat"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Default\/Echopark.hdr"
+                    },
+                    {
+                        "k": "969",
+                        "v": "Default"
+                    },
+                    {
+                        "k": "971",
+                        "v": "Bitmoji Office Pack Resources"
+                    },
+                    {
+                        "k": "972",
+                        "v": "Bitmoji Office Pack Resources\/Meshes"
+                    },
+                    {
+                        "k": "976",
+                        "v": "Bitmoji Office Pack Resources\/Textures"
+                    },
+                    {
+                        "k": "1030",
+                        "v": "Bitmoji Office Pack Resources\/Meshes\/podium_speech"
+                    },
+                    {
+                        "k": "1031",
+                        "v": "Bitmoji Office Pack Resources\/Meshes\/podium_speech\/Meshes"
+                    },
+                    {
+                        "k": "1032",
+                        "v": "Bitmoji Office Pack Resources\/Meshes\/podium_speech\/Meshes\/C_podium_speech_GEO.mesh"
+                    },
+                    {
+                        "k": "1033",
+                        "v": "Bitmoji Office Pack Resources\/Meshes\/podium_speech\/Material"
+                    },
+                    {
+                        "k": "1034",
+                        "v": "Bitmoji Office Pack Resources\/Meshes\/podium_speech\/Material\/podium_speech.lsmat"
+                    },
+                    {
+                        "k": "1035",
+                        "v": "Bitmoji Office Pack Resources\/Textures\/podium_speech_color.png"
+                    },
+                    {
+                        "k": "26994",
+                        "v": "Textures\/Heading Gradient.jpg"
+                    },
+                    {
+                        "k": "26995",
+                        "v": "Textures\/Sub Heading Gradient.jpg"
+                    },
+                    {
+                        "k": "27080",
+                        "v": "Scripts\/Behavior.js"
+                    },
+                    {
+                        "k": "27082",
+                        "v": "Scripts\/Toggle Picker on Tap.lsscript"
+                    },
+                    {
+                        "k": "27083",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "27084",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "27085",
+                        "v": "Materials\/Collage Example\/Gradient.lsmat"
+                    },
+                    {
+                        "k": "27089",
+                        "v": "Materials\/Collage Example"
+                    },
+                    {
+                        "k": "27090",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "27092",
+                        "v": "Materials\/Collage Example\/Rounded Media Picker.lsmat"
+                    },
+                    {
+                        "k": "27093",
+                        "v": "Materials\/Collage Example\/Rounded Device Camera Texture.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "970",
+                        "v": "621da74e06cc402b895f39376927a9d1"
+                    },
+                    {
+                        "k": "975",
+                        "v": "1120377994536c8048779a8e662f55c3"
+                    },
+                    {
+                        "k": "977",
+                        "v": "7cab8ba7c0acf504f3c97ba39d292cbf"
+                    },
+                    {
+                        "k": "980",
+                        "v": "ca1d819bfc0d26e13adb07338c577a67"
+                    },
+                    {
+                        "k": "981",
+                        "v": "31aa5f834c8e417f749cc380af770ee9"
+                    },
+                    {
+                        "k": "984",
+                        "v": "79f9c4920af27ea44ecf881f7601c3cd"
+                    },
+                    {
+                        "k": "986",
+                        "v": "ba6487a478c3ac3138d7e8cc17c1ee06"
+                    },
+                    {
+                        "k": "987",
+                        "v": "63554ad4e1e7b40f11ee7558ebc7400c"
+                    },
+                    {
+                        "k": "990",
+                        "v": "eb7233b63edd1d9a44d2fee89939ecbd"
+                    },
+                    {
+                        "k": "992",
+                        "v": "39400550e8d597ccc2eb5324f0f51701"
+                    },
+                    {
+                        "k": "993",
+                        "v": "586aa8bbb0225262c6e5b06180760128"
+                    },
+                    {
+                        "k": "996",
+                        "v": "1952df4e79e781df8c84153d0c19986d"
+                    },
+                    {
+                        "k": "998",
+                        "v": "51c5b5faa40239099b5d67ed255a31fb"
+                    },
+                    {
+                        "k": "999",
+                        "v": "b31534a33a954c10d365ea578153c02e"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "2eaf62607209717d6c20d44e8cbd9b31"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "4ee95cb2783fac587e00cdee9e55b488"
+                    },
+                    {
+                        "k": "1005",
+                        "v": "18f67b2ffea953d81cee0b55b3fbcfa7"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "5e6c4d893f7e78d235958da5677c06f3"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "8288621f94f8002e31905217b7297537"
+                    },
+                    {
+                        "k": "1011",
+                        "v": "21a27e56412e73e98aa01fc2f4000434"
+                    },
+                    {
+                        "k": "1012",
+                        "v": "223fa414eb6cd93ec6501b68c394d689"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "3dbd2cee2872e056a784ed3fbb0e9a78"
+                    },
+                    {
+                        "k": "1016",
+                        "v": "d6da4f39b0b355a09c6df0b6ac62d02a"
+                    },
+                    {
+                        "k": "1017",
+                        "v": "d1c8a553c4c02b724c5a74036288dd46"
+                    },
+                    {
+                        "k": "1018",
+                        "v": "e6c7ea5088696cd8e2c4127848325444"
+                    },
+                    {
+                        "k": "1019",
+                        "v": "5868fbe382ca66f3068cb21cb0f3fb9b"
+                    },
+                    {
+                        "k": "1020",
+                        "v": "bd2905c47af94f794326d7a2486c55fc"
+                    },
+                    {
+                        "k": "1022",
+                        "v": "6a8a07c981e34100622e1fc99e196d07"
+                    },
+                    {
+                        "k": "1023",
+                        "v": "5669212fdc7f9aab9df6992fb243b965"
+                    },
+                    {
+                        "k": "1026",
+                        "v": "21ed32a6dbecf48a2c1728dfffe956ac"
+                    },
+                    {
+                        "k": "1028",
+                        "v": "873d290d0f0b6c1a1690bd339c407769"
+                    },
+                    {
+                        "k": "1029",
+                        "v": "69e36184da5700dfc16500426e1da8d4"
+                    },
+                    {
+                        "k": "1032",
+                        "v": "94d67f1c05dbbf306690d0e62897dcda"
+                    },
+                    {
+                        "k": "1034",
+                        "v": "38b267b2731ff594ec29eb15c5fe034a"
+                    },
+                    {
+                        "k": "1035",
+                        "v": "b0d1b94487628f6a7c63293d93d257c6"
+                    },
+                    {
+                        "k": "1037",
+                        "v": "a31eadac425a439ad20ceadef63582b7"
+                    },
+                    {
+                        "k": "1039",
+                        "v": "f0d85770c834194964cf2cf90372f830"
+                    },
+                    {
+                        "k": "1040",
+                        "v": "706b40a4a3ad5e88e1f8b22cacc366d2"
+                    },
+                    {
+                        "k": "1041",
+                        "v": "12b6195aacff574dbfc2da0a7115a97c"
+                    },
+                    {
+                        "k": "26992",
+                        "v": "6741e096abdb0f13ac863c0cc1b23153"
+                    },
+                    {
+                        "k": "26993",
+                        "v": "37008475c2aec7960d7276e3fc19e820"
+                    },
+                    {
+                        "k": "26994",
+                        "v": "c796a933ddec298e285e9ceb1e1e12da"
+                    },
+                    {
+                        "k": "26995",
+                        "v": "f42322efcf003dec9b00304d4fcede04"
+                    },
+                    {
+                        "k": "26998",
+                        "v": "e5db9d5b19168d2008aa4b1cf1fd13b1"
+                    },
+                    {
+                        "k": "26999",
+                        "v": "437455d53d41309951dcb1ad5d24e6e7"
+                    },
+                    {
+                        "k": "27000",
+                        "v": "7c7653600093a2c804702ef45a2c188a"
+                    },
+                    {
+                        "k": "27001",
+                        "v": "f8e4cbb0fbfa3d4139c98bed9e23ec3f"
+                    },
+                    {
+                        "k": "27003",
+                        "v": "cb227cae25f08b1eb6956339486b5f7b"
+                    },
+                    {
+                        "k": "27004",
+                        "v": "4c94fe9a543a43e8aa2f10efc3c31867"
+                    },
+                    {
+                        "k": "27005",
+                        "v": "1987dfec5b53836cae47c4a678217167"
+                    },
+                    {
+                        "k": "27006",
+                        "v": "db1633dd326bc8f976dd02c2fdb5bbf4"
+                    },
+                    {
+                        "k": "27007",
+                        "v": "b89e3f7e5bb9e99c64ac1d2ce692bf29"
+                    },
+                    {
+                        "k": "27010",
+                        "v": "3c5250f945ec90db99e7962d2fc45ffd"
+                    },
+                    {
+                        "k": "27011",
+                        "v": "a6f99b1bf073be827aa8bd8d0423a567"
+                    },
+                    {
+                        "k": "27012",
+                        "v": "444e5dddefb049011236c6f097915e4c"
+                    },
+                    {
+                        "k": "27013",
+                        "v": "2e4c9c3ade7dfaba840c138a8b228acf"
+                    },
+                    {
+                        "k": "27014",
+                        "v": "a766ad9db5a33bcbae41ac93fc485ee2"
+                    },
+                    {
+                        "k": "27015",
+                        "v": "4f7330e79e60a0df1213b0f3944c89f4"
+                    },
+                    {
+                        "k": "27016",
+                        "v": "d01d08d72afead8eb7d6c1ce93b86f35"
+                    },
+                    {
+                        "k": "27017",
+                        "v": "33bc132e3167fcec897bf96dd37f2cc1"
+                    },
+                    {
+                        "k": "27018",
+                        "v": "6669c0b081144ff1d06ea2479f6f8896"
+                    },
+                    {
+                        "k": "27021",
+                        "v": "dd1023cb1834443d980f1e0b6ff67f46"
+                    },
+                    {
+                        "k": "27022",
+                        "v": "2376b4a2956f2cf3ca3d88f363b8eb3e"
+                    },
+                    {
+                        "k": "27023",
+                        "v": "9cd7e28515f5d9c531b6d7514189ad26"
+                    },
+                    {
+                        "k": "27025",
+                        "v": "fa8b3aff588bf85dd3aa4f79ed1343a2"
+                    },
+                    {
+                        "k": "27026",
+                        "v": "a1b6cdb0d9b65eb36107a40b26009d89"
+                    },
+                    {
+                        "k": "27027",
+                        "v": "452393a1322caf2465cf0fd80362de52"
+                    },
+                    {
+                        "k": "27028",
+                        "v": "ffe89eacfc799f78575ba489370cc0d3"
+                    },
+                    {
+                        "k": "27029",
+                        "v": "1306a770d4aa1fd926e20ace45454d62"
+                    },
+                    {
+                        "k": "27030",
+                        "v": "e6acdb6c47bafa027c2e89bfbdaf736f"
+                    },
+                    {
+                        "k": "27031",
+                        "v": "416afbe4db331d69bceeced8ac39a46e"
+                    },
+                    {
+                        "k": "27032",
+                        "v": "aa1599fc32f22af7d8bbd848ca07831f"
+                    },
+                    {
+                        "k": "27033",
+                        "v": "b506869d6b371cb20a3d0ac38118fef8"
+                    },
+                    {
+                        "k": "27034",
+                        "v": "c8dbda5c08f99b29be24d4e270348ffe"
+                    },
+                    {
+                        "k": "27035",
+                        "v": "009410da5825ef52b373eb587a58fbc6"
+                    },
+                    {
+                        "k": "27037",
+                        "v": "5563a3bd5055224d5e5667b44ab5ff17"
+                    },
+                    {
+                        "k": "27038",
+                        "v": "f369b08ca5ad535431c9b8c099a9edbe"
+                    },
+                    {
+                        "k": "27039",
+                        "v": "2b047608291e921e646c4cc997af0dbd"
+                    },
+                    {
+                        "k": "27040",
+                        "v": "05902e34c3438b4430c9255fcf942cb0"
+                    },
+                    {
+                        "k": "27041",
+                        "v": "0e8625c9e5b128a12c708a0547b03eec"
+                    },
+                    {
+                        "k": "27042",
+                        "v": "7c9c5d0385361284252fef4ed50433d9"
+                    },
+                    {
+                        "k": "27043",
+                        "v": "780b954e6725b471ced13a9195889c9a"
+                    },
+                    {
+                        "k": "27044",
+                        "v": "b067dc389da3b21ca6e8941c58e74694"
+                    },
+                    {
+                        "k": "27046",
+                        "v": "1bb050e16d2d88add0e4d0597c37af10"
+                    },
+                    {
+                        "k": "27047",
+                        "v": "3eeb383110cc9d6abd6d1d2224fedc73"
+                    },
+                    {
+                        "k": "27048",
+                        "v": "445258de89ae54e8837bc5d67038a252"
+                    },
+                    {
+                        "k": "27050",
+                        "v": "9b938c295897c81daf79f027fbcbb796"
+                    },
+                    {
+                        "k": "27051",
+                        "v": "2e68b188996e5b1708eb017faa40fbb0"
+                    },
+                    {
+                        "k": "27052",
+                        "v": "8d9560fad32594866245c9a3e62fd0fa"
+                    },
+                    {
+                        "k": "27054",
+                        "v": "4c09b7bd28278c5e93a18642734ccfb9"
+                    },
+                    {
+                        "k": "27055",
+                        "v": "4ff047921e915c50b1882e210cd06afe"
+                    },
+                    {
+                        "k": "27056",
+                        "v": "7a05e127902a5a6f328a8df659c6e60a"
+                    },
+                    {
+                        "k": "27058",
+                        "v": "29ed708f469a47d74fb2476dd891a7bc"
+                    },
+                    {
+                        "k": "27059",
+                        "v": "23ed09b6fbcd68bc32079ad529e9c0f6"
+                    },
+                    {
+                        "k": "27060",
+                        "v": "fa50785134c0f9a6d6f1c57c85042281"
+                    },
+                    {
+                        "k": "27061",
+                        "v": "70cb533ca3d8346a11331af66efc894c"
+                    },
+                    {
+                        "k": "27062",
+                        "v": "b0a261685c5e6245c8ae22f27f4c903c"
+                    },
+                    {
+                        "k": "27063",
+                        "v": "f125e4c087a310b902c4fedc9e2b2890"
+                    },
+                    {
+                        "k": "27065",
+                        "v": "c8336e6d636a1399f7156c1bb3746bd7"
+                    },
+                    {
+                        "k": "27066",
+                        "v": "9fac0f9ab9b03da7c3d3fbd3c57a469c"
+                    },
+                    {
+                        "k": "27067",
+                        "v": "e511fecff30d5f77fe79fa8116a4d154"
+                    },
+                    {
+                        "k": "27070",
+                        "v": "0f22bac28f4bb7f9303722acb5d035e0"
+                    },
+                    {
+                        "k": "27071",
+                        "v": "0484abd87ee78b2745eb9563b19fd6a2"
+                    },
+                    {
+                        "k": "27072",
+                        "v": "19bad114d394c6f678324a58945e8f6e"
+                    },
+                    {
+                        "k": "27074",
+                        "v": "50c7ca2b9e4611beb1422eabadd21add"
+                    },
+                    {
+                        "k": "27075",
+                        "v": "1c721c13104beee30e0050f38be85fd9"
+                    },
+                    {
+                        "k": "27076",
+                        "v": "0ff87c695bded0a02ed4e249e5f63059"
+                    },
+                    {
+                        "k": "27079",
+                        "v": "54b5e21104a4a7f86b3d510596fdc27e"
+                    },
+                    {
+                        "k": "27080",
+                        "v": "29be4b54bf5aa34e7242241dc3ea432c"
+                    },
+                    {
+                        "k": "27081",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "27082",
+                        "v": "adddb3323bcee9afa1807236920a3dfc"
+                    },
+                    {
+                        "k": "27085",
+                        "v": "aaa6db1fb04f2ec86640ad0883a2470e"
+                    },
+                    {
+                        "k": "27086",
+                        "v": "6741e096abdb0f13ac863c0cc1b23153"
+                    },
+                    {
+                        "k": "27087",
+                        "v": "d9eb7f502cf25bb49d7807706ca0dbe3"
+                    },
+                    {
+                        "k": "27088",
+                        "v": "a48f5f148f3f6848680feda2bffb0f3f"
+                    },
+                    {
+                        "k": "27091",
+                        "v": "6741e096abdb0f13ac863c0cc1b23153"
+                    },
+                    {
+                        "k": "27092",
+                        "v": "5614e93f0f578bebd5ff9b6849441d4f"
+                    },
+                    {
+                        "k": "27093",
+                        "v": "a12821ffcc5d8298ee5dd14b9365a729"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-11-18T19:33:55",
+                        "name": "Public",
+                        "hash": "3c8639ad8031bc062d564a4ae2a51878",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-18T19:33:55",
+                                "name": "Textures",
+                                "hash": "3220ee463fbed574d8bb853c9d3055a8",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-18T19:33:54",
+                                        "name": "Heading Gradient.jpg",
+                                        "hash": "c796a933ddec298e285e9ceb1e1e12da",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-18T19:33:54",
+                                        "name": "Sub Heading Gradient.jpg",
+                                        "hash": "f42322efcf003dec9b00304d4fcede04",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-18T19:33:54",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-18T19:33:55",
+                                "name": "Materials",
+                                "hash": "339b4e3a174df1ef9ceb1a4234978b19",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-18T19:33:55",
+                                        "name": "Collage Example",
+                                        "hash": "7d15679b32592adf563bec7cc26e75bd",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-18T19:33:54",
+                                                "name": "Gradient.lsmat",
+                                                "hash": "c043920a4107d6e8c0b31c7d855c2140",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-18T19:33:54",
+                                                "name": "Rounded Media Picker.lsmat",
+                                                "hash": "7c7b0ec770caa36644cb839324d6ad5d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-18T19:33:54",
+                                                "name": "Rounded Device Camera Texture.lsmat",
+                                                "hash": "40d4ea314333f99f259361f07552072c",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-18T19:33:54",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-18T19:33:54",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-18T19:33:55",
+                                "name": "Bitmoji Office Pack Resources",
+                                "hash": "41279b4a919165dc74be054a5faede5e",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-18T19:33:55",
+                                        "name": "Textures",
+                                        "hash": "5ba6b7a9eaf3e77ba9b138f68961b824",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-18T19:33:54",
+                                                "name": "podium_speech_color.png",
+                                                "hash": "b0d1b94487628f6a7c63293d93d257c6",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-18T19:33:54",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-18T19:33:55",
+                                        "name": "Meshes",
+                                        "hash": "ddd0af8cf506310585a2c8fbb91a36c1",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-11-18T19:33:55",
+                                                "name": "podium_speech",
+                                                "hash": "0d5cbda68618939b512e64801d088919",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2021-11-18T19:33:55",
+                                                        "name": "Meshes",
+                                                        "hash": "c15a1bf41dd31874c56fed8be1af48b1",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-11-18T19:33:54",
+                                                                "name": "C_podium_speech_GEO.mesh",
+                                                                "hash": "94d67f1c05dbbf306690d0e62897dcda",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-11-18T19:33:54",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2021-11-18T19:33:55",
+                                                        "name": "Material",
+                                                        "hash": "3a6d04399128129ab25036ccd8a78211",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-11-18T19:33:54",
+                                                                "name": "podium_speech.lsmat",
+                                                                "hash": "38b267b2731ff594ec29eb15c5fe034a",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-11-18T19:33:54",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-11-18T19:33:54",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-18T19:33:54",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-18T19:33:54",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-18T19:33:55",
+                                "name": "Default",
+                                "hash": "7305afc99178fbb8f0912889f41c0cab",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-18T19:33:54",
+                                        "name": "Echopark.hdr",
+                                        "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-18T19:33:54",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-18T19:33:55",
+                                "name": "Scripts",
+                                "hash": "1758d63c2207e964be10aa1193616783",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-18T19:33:54",
+                                        "name": "Behavior.js",
+                                        "hash": "29be4b54bf5aa34e7242241dc3ea432c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-18T19:33:54",
+                                        "name": "Toggle Picker on Tap.lsscript",
+                                        "hash": "adddb3323bcee9afa1807236920a3dfc",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-18T19:33:54",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-11-18T19:33:54",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Default",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "969",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": {
+                                    "resourceInfoExportKey": {
+                                        "RenderTargetRole": "1"
+                                    }
+                                }
+                            },
+                            {
+                                "name": "Echopark",
+                                "type": "9",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "7",
+                                "originalId": "18446744073709551615",
+                                "publicId": "967",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Diff",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "10",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588296316843646:534374",
+                                        "fileId": "3",
+                                        "originalId": "4",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Specular",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "11",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588296316857901:534385",
+                                        "fileId": "5",
+                                        "originalId": "6",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bitmoji Office Pack Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "971",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "972",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "podium_speech",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1030",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Meshes",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1031",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "C_podium_speech_GEO",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "48",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1629743942162242:648854",
+                                                        "fileId": "82",
+                                                        "originalId": "83",
+                                                        "publicId": "1032",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Material",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1033",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "podium_speech",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "49",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1629743942232383:648868",
+                                                        "fileId": "84",
+                                                        "originalId": "85",
+                                                        "publicId": "1034",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "976",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "podium_speech_color",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "50",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629743942519189:648891",
+                                        "fileId": "86",
+                                        "originalId": "87",
+                                        "publicId": "1035",
+                                        "source": "",
+                                        "additional": {
+                                            "originHash": "b0d1b94487628f6a7c63293d93d257c6"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27083",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Heading Gradient",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "57",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1629764047572901:20204",
+                                "fileId": "114",
+                                "originalId": "115",
+                                "publicId": "26994",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "c796a933ddec298e285e9ceb1e1e12da"
+                                }
+                            },
+                            {
+                                "name": "Sub Heading Gradient",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "58",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1629764143819252:39240",
+                                "fileId": "118",
+                                "originalId": "119",
+                                "publicId": "26995",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "f42322efcf003dec9b00304d4fcede04"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27084",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Behavior",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "124",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1629765140005388:290944",
+                                "fileId": "198",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27080",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Toggle Picker on Tap",
+                                "type": "4",
+                                "subtype": "1",
+                                "resourceId": "126",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1629765255634340:358255",
+                                "fileId": "200",
+                                "originalId": "201",
+                                "publicId": "27082",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27090",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Collage Example",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "27089",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Gradient",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "127",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629766531344197:685178",
+                                        "fileId": "202",
+                                        "originalId": "203",
+                                        "publicId": "27085",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Rounded Media Picker",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "132",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1634867040825560:27504",
+                                        "fileId": "213",
+                                        "originalId": "214",
+                                        "publicId": "27092",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Rounded Device Camera Texture",
+                                        "type": "2",
+                                        "subtype": "1",
+                                        "resourceId": "134",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1634867115070860:45216",
+                                        "fileId": "219",
+                                        "originalId": "220",
+                                        "publicId": "27093",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Segmentation Texture [EDIT_ME]",
+                        "type": "1",
+                        "subtype": "14",
+                        "resourceId": "131",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1634866975729124:11595",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Media Picker [EDIT_ME]",
+                        "type": "1",
+                        "subtype": "12",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629740866718007:156986",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": "",
+            "33": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1629743942162242:648854",
+                    "v": {
+                        "infos": {
+                            "originalSize": "7446",
+                            "compressedSize": "7446",
+                            "originalRAM": "15394",
+                            "compressedRAM": "15394",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": "",
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "212",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1629743942519189:648891",
+                    "v": {
+                        "infos": {
+                            "originalSize": "6229",
+                            "compressedSize": "6492",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "131072",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "88",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "b0d1b94487628f6a7c63293d93d257c6",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "102"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629764047572901:20204",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2733",
+                            "compressedSize": "2733",
+                            "originalRAM": "131072",
+                            "compressedRAM": "131072",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "122",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "c796a933ddec298e285e9ceb1e1e12da",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "123"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629764143819252:39240",
+                    "v": {
+                        "infos": {
+                            "originalSize": "3361",
+                            "compressedSize": "3361",
+                            "originalRAM": "262144",
+                            "compressedRAM": "262144",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0",
+                                "subtype": "9"
+                            }
+                        },
+                        "uncompressed_file": "120",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "f42322efcf003dec9b00304d4fcede04",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "121"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1629743934255226:647769",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743935218236:648211",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743935277823:648229",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743935477986:648249",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743935566821:648263",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743935890664:648299",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743935947678:648313",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743936303073:648336",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743936495771:648356",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743936597776:648376",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743937024561:648399",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743937173371:648419",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743937274735:648433",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743937735456:648452",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743937927747:648476",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743938056623:648496",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743938110426:648510",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743939007570:648533",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743939411852:648565",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743939521066:648579",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743940429808:648602",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743940569451:648622",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743940658704:648642",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743940774129:648668",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743940901470:648694",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743941003761:648714",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743941137213:648740",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743941208273:648754",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743941494167:648773",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743941684554:648793",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743941746077:648815",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743942023838:648834",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743942162242:648854",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743942232383:648868",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743942519189:648891",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743942649456:648905",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629743942879931:648924",
+                    "v": "5AhuezDr8cK5gAQx9kQ8JT"
+                },
+                {
+                    "k": "1629757173398977:379207",
+                    "v": "47OLpVQmp92NPVeCEcRgh4"
+                },
+                {
+                    "k": "1629757173565150:379279",
+                    "v": "47OLpVQmp92NPVeCEcRgh4"
+                },
+                {
+                    "k": "1629766619351731:719323",
+                    "v": "47OLpVQmp92NPVeCEcRgh4"
+                },
+                {
+                    "k": "1629766619512907:719391",
+                    "v": "47OLpVQmp92NPVeCEcRgh4"
+                }
+            ]
+        }
+    },
+    "templateName": "Green Screen",
+    "templateUrl": "https:\/\/assets.ctfassets.net\/xyb83mibqg29\/1dQhZEWWndQurfR7QV1DTP\/8590a6a43d80ccd09348085c14d211e8\/Green_Screen_Template.zip"
+}

@@ -1,0 +1,4635 @@
+{
+    "lens_id": "",
+    "document_id": "TUiYRiJC116djXbX63VZ",
+    "original_document_id": "TUiYRiJC116djXbX63VZ",
+    "version": "28",
+    "lastChanged": "1635877993482",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "true",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "4",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "4",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Body Assets"
+                    ],
+                    [
+                        "Body Assets",
+                        "Body Segmentation"
+                    ],
+                    [
+                        "Materials",
+                        "Plastic Material [EDIT_ME]"
+                    ],
+                    [
+                        "Meshes"
+                    ],
+                    [
+                        "Meshes",
+                        "Bandana"
+                    ],
+                    [
+                        "Meshes",
+                        "Cloth"
+                    ],
+                    [
+                        "Prefabs"
+                    ],
+                    [
+                        "Prefabs",
+                        "Fabric Material Controller"
+                    ],
+                    [
+                        "Prefabs",
+                        "Plane Occluder"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "Tween"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Echopark"
+                    ],
+                    [
+                        "Textures",
+                        "logo_cloud"
+                    ],
+                    [
+                        "Textures",
+                        "logo_flower"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1605932640776430:204137",
+                    "1612846491157552:9158",
+                    "1613073435827075:65531",
+                    "1613073448507584:67339",
+                    "1613075556695067:70304",
+                    "1613075580134968:73678",
+                    "1613075614522778:76950",
+                    "1613075661588382:81959",
+                    "1613075667867656:83082",
+                    "1613088401674084:35607",
+                    "1613088401677038:35636",
+                    "1613088726277883:67786",
+                    "1613516077458059:42345",
+                    "1614103757742403:34714",
+                    "1614103757744922:34729",
+                    "1614103757745099:34731",
+                    "1614103757747466:34743",
+                    "1614103757749741:34755",
+                    "1614103757752011:34767",
+                    "1614103757753851:34779",
+                    "1614103757758174:34801",
+                    "1614103757758389:34803",
+                    "1614103757760758:34815",
+                    "1614103757762780:34827",
+                    "1614103757764645:34839",
+                    "1614103757766740:34851",
+                    "1614103757771583:34870",
+                    "1614103757774069:34885",
+                    "1614103757777354:34902",
+                    "1614216490091353:1530209",
+                    "1614897640514147:1995616",
+                    "1614898651677848:2189771",
+                    "1614903598597233:3516446",
+                    "1614909211435782:4752955",
+                    "1614911358019080:5188778",
+                    "1614989366508576:4598243",
+                    "1614989646034922:4665125",
+                    "1614990364007316:4874797",
+                    "1615952373647764:2546168",
+                    "1615952433209660:2564277",
+                    "1615952716373840:2616359",
+                    "1615953877229476:2831664",
+                    "1615958225387774:3211623",
+                    "1615972510612283:711063",
+                    "1615972523780177:714843",
+                    "1615972619873726:738875",
+                    "1616212249279803:38317",
+                    "1616559308270597:167781",
+                    "1616562623116438:1119289",
+                    "1616562627724917:1121915",
+                    "1619108002634178:31698",
+                    "1619114002598602:1216387",
+                    "1619130649996159:170940",
+                    "1619495554087828:25560607",
+                    "1619556522416525:502902",
+                    "1620090202410595:129051",
+                    "1620090219532399:135573",
+                    "1620090318327227:212610",
+                    "1620090344921708:220249"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "b54526cf75155debcfe0d951283439f5",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Bandana",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "HermosaUseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "false",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Skeletal.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Patio.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1605932652067087:206534",
+                    "1614216673264924:1581618",
+                    "1619480548412221:19543606",
+                    "1619627809443650:1676662",
+                    "1619809071914179:1313288"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1619658408962621:13617"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "255",
+                    "uid": "1618768845353153:83101",
+                    "name": "Files\/File488.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "256",
+                    "uid": "1619107999258754:31097",
+                    "name": "Files\/File493.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "265",
+                    "uid": "1619108001020651:31396",
+                    "name": "Files\/File505.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "270",
+                    "uid": "1619108002002784:31564",
+                    "name": "Files\/File515.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "319",
+                    "uid": "1619133586142965:547563",
+                    "name": "Files\/File603.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "327",
+                    "uid": "1619415432530122:10888708",
+                    "name": "Files\/File623.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "341",
+                    "uid": "1619473092688053:17400012",
+                    "name": "Files\/File650.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "342",
+                    "uid": "1619479703202755:19457326",
+                    "name": "Files\/File652.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "350",
+                    "uid": "1619495550801711:25558000",
+                    "name": "Files\/File666.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "352",
+                    "uid": "1619495550854722:25558037",
+                    "name": "Files\/File668.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "353",
+                    "uid": "1619495550894861:25558062",
+                    "name": "Files\/File669.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "418",
+                    "uid": "1619658408073962:13468",
+                    "name": "Files\/File741",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "420",
+                    "uid": "1619658408962621:13617",
+                    "name": "Files\/File746",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "421",
+                    "uid": "1619658409540223:13707",
+                    "name": "Files\/File748",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "422",
+                    "uid": "1619658410425669:13892",
+                    "name": "Files\/File750",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "423",
+                    "uid": "1619658410754036:13980",
+                    "name": "Files\/File752.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "426",
+                    "uid": "1619658412334058:14322",
+                    "name": "Files\/File760",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "433",
+                    "uid": "1619809127815038:1334267",
+                    "name": "Files\/File775.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "436",
+                    "uid": "1619817113958670:286318",
+                    "name": "Files\/File778.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "439",
+                    "uid": "1619817941530004:69157",
+                    "name": "Files\/File784.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "442",
+                    "uid": "1620090219271627:135536",
+                    "name": "Files\/File793.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "445",
+                    "uid": "1620159054071395:430827",
+                    "name": "Body Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "456",
+                    "uid": "1620346829202136:1982332",
+                    "name": "Files\/File825",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "471",
+                    "uid": "1620426165242170:4957877",
+                    "name": "Files\/File862.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "472",
+                    "uid": "1620434521682054:796629",
+                    "name": "Files\/File868.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "473",
+                    "uid": "1620435106874055:981178",
+                    "name": "Fabric Material Controller",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "474",
+                    "uid": "1620764477703843:1544068",
+                    "name": "Plane Occluder",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "475",
+                    "uid": "1620866790809806:1597676",
+                    "name": "Files\/File873.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "476",
+                    "uid": "1620866791048110:1597699",
+                    "name": "Files\/File877.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1619108002634178:31698",
+                "4": "1619459160441157:13559922",
+                "5": "1619479703469797:19457384",
+                "6": "1619494030045434:24774861",
+                "7": "1619495553944835:25559994",
+                "8": "1619495554078289:25560215",
+                "9": "1619555061000554:96167",
+                "10": "1619556522129287:502763",
+                "11": "1619556522130193:502765",
+                "12": "1619556522130426:502767",
+                "13": "1619557004015399:695750",
+                "14": "1619557049455523:718882",
+                "15": "1619627809447582:1676683",
+                "16": "1619808801172352:1252296",
+                "17": "1619817098724023:281335",
+                "18": "1620113296920278:2844579"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "orthographic",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "488",
+                    "v": "Files\/File488.png"
+                },
+                {
+                    "k": "489",
+                    "v": "Files\/File489.png"
+                },
+                {
+                    "k": "493",
+                    "v": "Files\/File493.js"
+                },
+                {
+                    "k": "505",
+                    "v": "Files\/File505.js"
+                },
+                {
+                    "k": "515",
+                    "v": "Files\/File515.jpg"
+                },
+                {
+                    "k": "516",
+                    "v": "Files\/File516.jpg"
+                },
+                {
+                    "k": "603",
+                    "v": "Files\/File603.jpg"
+                },
+                {
+                    "k": "604",
+                    "v": "Files\/File604.jpg"
+                },
+                {
+                    "k": "623",
+                    "v": "Files\/File623.js"
+                },
+                {
+                    "k": "650",
+                    "v": "Files\/File650.jpg"
+                },
+                {
+                    "k": "651",
+                    "v": "Files\/File651.jpg"
+                },
+                {
+                    "k": "652",
+                    "v": "Files\/File652.mesh"
+                },
+                {
+                    "k": "653",
+                    "v": "Files\/File653.mesh"
+                },
+                {
+                    "k": "666",
+                    "v": "Files\/File666.js"
+                },
+                {
+                    "k": "668",
+                    "v": "Files\/File668.js"
+                },
+                {
+                    "k": "669",
+                    "v": "Files\/File669.js"
+                },
+                {
+                    "k": "741",
+                    "v": "Files\/File741"
+                },
+                {
+                    "k": "742",
+                    "v": "Files\/File742.lsmat"
+                },
+                {
+                    "k": "746",
+                    "v": "Files\/File746"
+                },
+                {
+                    "k": "747",
+                    "v": "Files\/File747.lsmat"
+                },
+                {
+                    "k": "748",
+                    "v": "Files\/File748"
+                },
+                {
+                    "k": "749",
+                    "v": "Files\/File749.lsmat"
+                },
+                {
+                    "k": "750",
+                    "v": "Files\/File750"
+                },
+                {
+                    "k": "751",
+                    "v": "Files\/File751.lsmat"
+                },
+                {
+                    "k": "752",
+                    "v": "Files\/File752.pvr"
+                },
+                {
+                    "k": "753",
+                    "v": "Files\/File753.png"
+                },
+                {
+                    "k": "760",
+                    "v": "Files\/File760"
+                },
+                {
+                    "k": "761",
+                    "v": "Files\/File761.lsmat"
+                },
+                {
+                    "k": "775",
+                    "v": "Files\/File775.js"
+                },
+                {
+                    "k": "778",
+                    "v": "Files\/File778.js"
+                },
+                {
+                    "k": "784",
+                    "v": "Files\/File784.pvr"
+                },
+                {
+                    "k": "785",
+                    "v": "Files\/File785.png"
+                },
+                {
+                    "k": "793",
+                    "v": "Files\/File793.mesh"
+                },
+                {
+                    "k": "794",
+                    "v": "Files\/File794.mesh"
+                },
+                {
+                    "k": "821",
+                    "v": "Files\/File821.png"
+                },
+                {
+                    "k": "822",
+                    "v": "Files\/File822.pvr"
+                },
+                {
+                    "k": "825",
+                    "v": "Files\/File825"
+                },
+                {
+                    "k": "826",
+                    "v": "Files\/File826.lsmat"
+                },
+                {
+                    "k": "862",
+                    "v": "Files\/File862.mesh"
+                },
+                {
+                    "k": "863",
+                    "v": "Files\/File863.mesh"
+                },
+                {
+                    "k": "866",
+                    "v": "Files\/File866.png"
+                },
+                {
+                    "k": "867",
+                    "v": "Files\/File867.pvr"
+                },
+                {
+                    "k": "868",
+                    "v": "Files\/File868.js"
+                },
+                {
+                    "k": "869",
+                    "v": "Files\/File869.oprfb"
+                },
+                {
+                    "k": "870",
+                    "v": "Files\/File870.oprfb"
+                },
+                {
+                    "k": "871",
+                    "v": "Files\/File871.oprfb"
+                },
+                {
+                    "k": "872",
+                    "v": "Files\/File872.oprfb"
+                },
+                {
+                    "k": "873",
+                    "v": "Files\/File873.pvr"
+                },
+                {
+                    "k": "874",
+                    "v": "Files\/File874.png"
+                },
+                {
+                    "k": "875",
+                    "v": "Files\/File875.png"
+                },
+                {
+                    "k": "876",
+                    "v": "Files\/File876.pvr"
+                },
+                {
+                    "k": "877",
+                    "v": "Files\/File877.pvr"
+                },
+                {
+                    "k": "878",
+                    "v": "Files\/File878.png"
+                },
+                {
+                    "k": "879",
+                    "v": "Files\/File879.png"
+                },
+                {
+                    "k": "880",
+                    "v": "Files\/File880.pvr"
+                },
+                {
+                    "k": "881",
+                    "v": "Files\/File881.jpg"
+                },
+                {
+                    "k": "882",
+                    "v": "Files\/File882.jpg"
+                },
+                {
+                    "k": "883",
+                    "v": "Files\/File883.jpg"
+                },
+                {
+                    "k": "884",
+                    "v": "Files\/File884.jpg"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "3",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Scripts\/ClothSimulation.js"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Scripts\/FabricMaterialController.js"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Scripts\/VertexColorController.js"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Scripts\/Tween"
+                    },
+                    {
+                        "k": "9",
+                        "v": "Scripts\/Tween\/TweenTypes"
+                    },
+                    {
+                        "k": "10",
+                        "v": "Scripts\/Tween\/TweenTypes\/TweenTransform.js"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Scripts\/Tween\/Tween.js"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Scripts\/Tween\/TweenManager.js"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Materials\/Stripe Material  [EDIT_ME].lsmat"
+                    },
+                    {
+                        "k": "17",
+                        "v": "Materials\/Debug Material.lsmat"
+                    },
+                    {
+                        "k": "18",
+                        "v": "Materials\/Silk Material  [EDIT_ME].lsmat"
+                    },
+                    {
+                        "k": "19",
+                        "v": "Materials\/Lace Material  [EDIT_ME].lsmat"
+                    },
+                    {
+                        "k": "21",
+                        "v": "Materials\/Plane Occluder  [EDIT_ME].lsmat"
+                    },
+                    {
+                        "k": "22",
+                        "v": "Meshes"
+                    },
+                    {
+                        "k": "29",
+                        "v": "Meshes\/Plane.mesh"
+                    },
+                    {
+                        "k": "32",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "33",
+                        "v": "Textures\/iridescence_combined.png"
+                    },
+                    {
+                        "k": "34",
+                        "v": "Textures\/lace_texture.jpg"
+                    },
+                    {
+                        "k": "36",
+                        "v": "Textures\/stripe_texture.jpg"
+                    },
+                    {
+                        "k": "37",
+                        "v": "Textures\/bandana_base_texture.jpg"
+                    },
+                    {
+                        "k": "38",
+                        "v": "Textures\/Echopark.hdr"
+                    },
+                    {
+                        "k": "39",
+                        "v": "Textures\/daisy_pattern_texture.png"
+                    },
+                    {
+                        "k": "42",
+                        "v": "Scripts\/BindTransform.js"
+                    },
+                    {
+                        "k": "23169",
+                        "v": "Scripts\/Behavior.js"
+                    },
+                    {
+                        "k": "23171",
+                        "v": "Textures\/plastic_pattern_texture.png"
+                    },
+                    {
+                        "k": "23177",
+                        "v": "Meshes\/Cloth.mesh"
+                    },
+                    {
+                        "k": "23187",
+                        "v": "Body Assets"
+                    },
+                    {
+                        "k": "23200",
+                        "v": "Materials\/Plastic Material [EDIT_ME].lsmat"
+                    },
+                    {
+                        "k": "23238",
+                        "v": "Meshes\/Bandana.mesh"
+                    },
+                    {
+                        "k": "23239",
+                        "v": "Scripts\/DisableObjectOnAwake.js"
+                    },
+                    {
+                        "k": "23240",
+                        "v": "Prefabs"
+                    },
+                    {
+                        "k": "23241",
+                        "v": "Prefabs\/Fabric Material Controller.oprfb"
+                    },
+                    {
+                        "k": "23244",
+                        "v": "Prefabs\/Plane Occluder.oprfb"
+                    },
+                    {
+                        "k": "23255",
+                        "v": "Textures\/logo_flower.png"
+                    },
+                    {
+                        "k": "23256",
+                        "v": "Textures\/logo_cloud.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "2",
+                        "v": "c55aabffaa8b2a19145bd8387c30cedf"
+                    },
+                    {
+                        "k": "4",
+                        "v": "83bfa7e0f89bf90092b80ffef997894f"
+                    },
+                    {
+                        "k": "5",
+                        "v": "0e9fbd6281c1f536226a54004b5f2c15"
+                    },
+                    {
+                        "k": "6",
+                        "v": "e9e487e5e0687371286bf9e117197fe8"
+                    },
+                    {
+                        "k": "7",
+                        "v": "35084611cee37a99be401066b540ac82"
+                    },
+                    {
+                        "k": "10",
+                        "v": "e5db9d5b19168d2008aa4b1cf1fd13b1"
+                    },
+                    {
+                        "k": "11",
+                        "v": "db1633dd326bc8f976dd02c2fdb5bbf4"
+                    },
+                    {
+                        "k": "12",
+                        "v": "b89e3f7e5bb9e99c64ac1d2ce692bf29"
+                    },
+                    {
+                        "k": "14",
+                        "v": "4d4d0b6ca47856800534c5c9b2149b88"
+                    },
+                    {
+                        "k": "15",
+                        "v": "f7570686b75b70daa342bb24ce02043c"
+                    },
+                    {
+                        "k": "16",
+                        "v": "3a32ecfa421a6afd0604123bd3a76886"
+                    },
+                    {
+                        "k": "17",
+                        "v": "af82a1bbcd96c61da85fc8888772eedd"
+                    },
+                    {
+                        "k": "18",
+                        "v": "3601c8255aef84d5c209415d88f1d176"
+                    },
+                    {
+                        "k": "19",
+                        "v": "7593332414fd676e83954b822eee40b2"
+                    },
+                    {
+                        "k": "20",
+                        "v": "987beb03d0615c878c1ef348a64e5c95"
+                    },
+                    {
+                        "k": "21",
+                        "v": "d3ee01eabbbef34901bd6a29bd738fd2"
+                    },
+                    {
+                        "k": "23",
+                        "v": "e08dd7e77d26214043920e3b59b73ff6"
+                    },
+                    {
+                        "k": "25",
+                        "v": "66b427a4d6dcf48a72e2c36f0dd19244"
+                    },
+                    {
+                        "k": "26",
+                        "v": "7558d56506fabfd8e53ad1d68f05a766"
+                    },
+                    {
+                        "k": "28",
+                        "v": "4fa92abe6bd1473fa517f64fce6a2b32"
+                    },
+                    {
+                        "k": "29",
+                        "v": "f3f8f179b87ba4b5a44077fb80d53214"
+                    },
+                    {
+                        "k": "30",
+                        "v": "c1bc9b6b45d47308b04a8760d518f3d0"
+                    },
+                    {
+                        "k": "33",
+                        "v": "464f444dfcba88908c256dddc14e2779"
+                    },
+                    {
+                        "k": "34",
+                        "v": "2a3055d974a09ff6b5d07cf96c7cb10e"
+                    },
+                    {
+                        "k": "35",
+                        "v": "bd200bdc7ffe73836c2eb07f4ee60823"
+                    },
+                    {
+                        "k": "36",
+                        "v": "092d6e4417ca4c62b9a84784f0b200fa"
+                    },
+                    {
+                        "k": "37",
+                        "v": "f23e70f2e245bf4294d77d1c7be800ce"
+                    },
+                    {
+                        "k": "38",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "39",
+                        "v": "3560edcc5d392dada4f1ef490ccdd27d"
+                    },
+                    {
+                        "k": "40",
+                        "v": "d12ace2fb64707a25851a1447177afa5"
+                    },
+                    {
+                        "k": "41",
+                        "v": "dab486e5843633eb75bdc2d81fd342c4"
+                    },
+                    {
+                        "k": "42",
+                        "v": "79a59c0d0ab6f9eef4fcf20693095845"
+                    },
+                    {
+                        "k": "43",
+                        "v": "18f9452c18684984837fab47fa2657c2"
+                    },
+                    {
+                        "k": "44",
+                        "v": "18f9452c18684984837fab47fa2657c2"
+                    },
+                    {
+                        "k": "23169",
+                        "v": "29be4b54bf5aa34e7242241dc3ea432c"
+                    },
+                    {
+                        "k": "23170",
+                        "v": "007ff37498300e49179cd3916dd5dac0"
+                    },
+                    {
+                        "k": "23171",
+                        "v": "3f3063c6df9e0b3c228a8b761911d75e"
+                    },
+                    {
+                        "k": "23172",
+                        "v": "6b0cb56669fa5ee08177cb05fe3a6e2c"
+                    },
+                    {
+                        "k": "23173",
+                        "v": "59361291686fd7cebf3981836238abbb"
+                    },
+                    {
+                        "k": "23174",
+                        "v": "511ed5e53f37a143cd13af72e4745424"
+                    },
+                    {
+                        "k": "23175",
+                        "v": "35cda9353dd2e224149cd2d8fd73ac1c"
+                    },
+                    {
+                        "k": "23177",
+                        "v": "68332e3872002ef3bfd8a28c9176b94f"
+                    },
+                    {
+                        "k": "23178",
+                        "v": "0a3eed605d998c357eb673745384dbef"
+                    },
+                    {
+                        "k": "23179",
+                        "v": "7558d56506fabfd8e53ad1d68f05a766"
+                    },
+                    {
+                        "k": "23181",
+                        "v": "4fa92abe6bd1473fa517f64fce6a2b32"
+                    },
+                    {
+                        "k": "23182",
+                        "v": "0a3eed605d998c357eb673745384dbef"
+                    },
+                    {
+                        "k": "23185",
+                        "v": "84cdb1fa8b1b4b2972ff9603f76c0eef"
+                    },
+                    {
+                        "k": "23186",
+                        "v": "c00a2fe55d48774ef2178af00a97d81b"
+                    },
+                    {
+                        "k": "23188",
+                        "v": "ff7549096e1d1dac5505875bc242a984"
+                    },
+                    {
+                        "k": "23190",
+                        "v": "b8ef5a1cea22e75d5489fb2bc217b0a1"
+                    },
+                    {
+                        "k": "23191",
+                        "v": "40b734e3e757376d96db3cb8fe8b7d49"
+                    },
+                    {
+                        "k": "23193",
+                        "v": "5b23db3cad84c5a615ae8cb211b5c238"
+                    },
+                    {
+                        "k": "23194",
+                        "v": "b10759783eea90e5a6d839b66130d8cf"
+                    },
+                    {
+                        "k": "23195",
+                        "v": "8e13c194573e2890349dd7c5ce9e2f8d"
+                    },
+                    {
+                        "k": "23196",
+                        "v": "609ccffa8c882b1ce265195da7181fd8"
+                    },
+                    {
+                        "k": "23197",
+                        "v": "567319fcaa163f4b568ed3099b26fca4"
+                    },
+                    {
+                        "k": "23198",
+                        "v": "007ff37498300e49179cd3916dd5dac0"
+                    },
+                    {
+                        "k": "23199",
+                        "v": "912b1b77d7f840de1efc24726901e6f5"
+                    },
+                    {
+                        "k": "23200",
+                        "v": "422e2bbefa02c7942ea7c7f9b2c4274e"
+                    },
+                    {
+                        "k": "23201",
+                        "v": "77d7b87e1b28a3f4bd1542710a18d89a"
+                    },
+                    {
+                        "k": "23203",
+                        "v": "6ae8090377bb71aafe79b1a55b2d0e9c"
+                    },
+                    {
+                        "k": "23228",
+                        "v": "a6ec9c020791bb1da0947f2e540017a2"
+                    },
+                    {
+                        "k": "23230",
+                        "v": "bf55e83d0251649b10c6e33cb0640e9e"
+                    },
+                    {
+                        "k": "23231",
+                        "v": "40b734e3e757376d96db3cb8fe8b7d49"
+                    },
+                    {
+                        "k": "23233",
+                        "v": "9d715f05906709c080f575f5af29a956"
+                    },
+                    {
+                        "k": "23234",
+                        "v": "81f622e3f6a1444b5eee9ffb3650cb77"
+                    },
+                    {
+                        "k": "23236",
+                        "v": "b829b56e2dd7e659eee9654504cf5629"
+                    },
+                    {
+                        "k": "23238",
+                        "v": "5a14e13279d09b009939374d752a0535"
+                    },
+                    {
+                        "k": "23239",
+                        "v": "aee7ddcfb827dbfda7699f6600e04f56"
+                    },
+                    {
+                        "k": "23241",
+                        "v": "2c8c25b46cb9bc9483d24d7ab99bcdf6"
+                    },
+                    {
+                        "k": "23244",
+                        "v": "e85855e75c2abbffb0df67be6c932e86"
+                    },
+                    {
+                        "k": "23255",
+                        "v": "02c707aba43b0d027b5117bf5e09fce7"
+                    },
+                    {
+                        "k": "23256",
+                        "v": "5889250042fab2fec4378b84a58338c4"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-11-02T22:55:06",
+                        "name": "Public",
+                        "hash": "f307ca907b6ce928c7e5657303b431cb",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-02T22:55:06",
+                                "name": "Textures",
+                                "hash": "7556d4c822f9d7ffb61b370038bc9c6e",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "bandana_base_texture.jpg",
+                                        "hash": "f23e70f2e245bf4294d77d1c7be800ce",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "lace_texture.jpg",
+                                        "hash": "2a3055d974a09ff6b5d07cf96c7cb10e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "plastic_pattern_texture.png",
+                                        "hash": "3f3063c6df9e0b3c228a8b761911d75e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "logo_flower.png",
+                                        "hash": "02c707aba43b0d027b5117bf5e09fce7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "stripe_texture.jpg",
+                                        "hash": "092d6e4417ca4c62b9a84784f0b200fa",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "iridescence_combined.png",
+                                        "hash": "464f444dfcba88908c256dddc14e2779",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "Echopark.hdr",
+                                        "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "daisy_pattern_texture.png",
+                                        "hash": "3560edcc5d392dada4f1ef490ccdd27d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "logo_cloud.png",
+                                        "hash": "5889250042fab2fec4378b84a58338c4",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-02T22:55:06",
+                                "name": "Materials",
+                                "hash": "a960567594c9b6a8c9ebe954a1aab0d3",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:55:06",
+                                        "name": "Lace Material  [EDIT_ME].lsmat",
+                                        "hash": "4a83d02aa928ac98117f4613bf5788af",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:55:06",
+                                        "name": "Stripe Material  [EDIT_ME].lsmat",
+                                        "hash": "cee75b09d2a3e43eb6a4260069e11e11",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:55:05",
+                                        "name": "Debug Material.lsmat",
+                                        "hash": "25b8fa8e3a2eec21a2766573c8e75e55",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:55:06",
+                                        "name": "Silk Material  [EDIT_ME].lsmat",
+                                        "hash": "d0de8e302bf573ca02d61a336cf17dfd",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:55:06",
+                                        "name": "Plastic Material [EDIT_ME].lsmat",
+                                        "hash": "8e212c8890a68fb0df65380abb55456e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:55:05",
+                                        "name": "Plane Occluder  [EDIT_ME].lsmat",
+                                        "hash": "8fe712df19ed3ea0f80cc40741535c37",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-02T22:55:06",
+                                "name": "Prefabs",
+                                "hash": "8eb494942c02eec7c8f13534f1b0df50",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "Fabric Material Controller.oprfb",
+                                        "hash": "2c8c25b46cb9bc9483d24d7ab99bcdf6",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "Plane Occluder.oprfb",
+                                        "hash": "e85855e75c2abbffb0df67be6c932e86",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-02T22:55:06",
+                                "name": "Meshes",
+                                "hash": "d53f48bc42af9ff7d3e6bb6a3b78439c",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "Bandana.mesh",
+                                        "hash": "5a14e13279d09b009939374d752a0535",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "Plane.mesh",
+                                        "hash": "f3f8f179b87ba4b5a44077fb80d53214",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "Cloth.mesh",
+                                        "hash": "68332e3872002ef3bfd8a28c9176b94f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-02T22:55:06",
+                                "name": "Body Assets",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-11-02T22:55:06",
+                                "name": "Scripts",
+                                "hash": "210431165af6152d715abc7a41d172d9",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "FabricMaterialController.js",
+                                        "hash": "0e9fbd6281c1f536226a54004b5f2c15",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "BindTransform.js",
+                                        "hash": "79a59c0d0ab6f9eef4fcf20693095845",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-11-02T22:55:06",
+                                        "name": "Tween",
+                                        "hash": "8cd03c66b81c20f515e5d47cdeac893b",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-11-02T22:55:06",
+                                                "name": "TweenTypes",
+                                                "hash": "825e264f7e557b6645fb64f5c1afac6b",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-11-02T22:53:04",
+                                                        "name": "TweenTransform.js",
+                                                        "hash": "e5db9d5b19168d2008aa4b1cf1fd13b1",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-11-02T22:53:04",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-02T22:53:04",
+                                                "name": "TweenManager.js",
+                                                "hash": "b89e3f7e5bb9e99c64ac1d2ce692bf29",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-02T22:53:04",
+                                                "name": "Tween.js",
+                                                "hash": "db1633dd326bc8f976dd02c2fdb5bbf4",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-11-02T22:53:04",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "Behavior.js",
+                                        "hash": "29be4b54bf5aa34e7242241dc3ea432c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "VertexColorController.js",
+                                        "hash": "e9e487e5e0687371286bf9e117197fe8",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "ClothSimulation.js",
+                                        "hash": "83bfa7e0f89bf90092b80ffef997894f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "DisableObjectOnAwake.js",
+                                        "hash": "aee7ddcfb827dbfda7699f6600e04f56",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-11-02T22:53:04",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-11-02T22:53:04",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Meshes",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "22",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Plane",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "342",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619479703202755:19457326",
+                                "fileId": "652",
+                                "originalId": "653",
+                                "publicId": "29",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Cloth",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "442",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1620090219271627:135536",
+                                "fileId": "793",
+                                "originalId": "794",
+                                "publicId": "23177",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Bandana",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "471",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1620426165242170:4957877",
+                                "fileId": "862",
+                                "originalId": "863",
+                                "publicId": "23238",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "32",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "iridescence_combined",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "255",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1618768845353153:83101",
+                                "fileId": "488",
+                                "originalId": "489",
+                                "publicId": "33",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "464f444dfcba88908c256dddc14e2779"
+                                }
+                            },
+                            {
+                                "name": "lace_texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "270",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619108002002784:31564",
+                                "fileId": "515",
+                                "originalId": "516",
+                                "publicId": "34",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "2a3055d974a09ff6b5d07cf96c7cb10e"
+                                }
+                            },
+                            {
+                                "name": "stripe_texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "319",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619133586142965:547563",
+                                "fileId": "603",
+                                "originalId": "604",
+                                "publicId": "36",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "092d6e4417ca4c62b9a84784f0b200fa"
+                                }
+                            },
+                            {
+                                "name": "bandana_base_texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "341",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619473092688053:17400012",
+                                "fileId": "650",
+                                "originalId": "651",
+                                "publicId": "37",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "f23e70f2e245bf4294d77d1c7be800ce"
+                                }
+                            },
+                            {
+                                "name": "Echopark",
+                                "type": "9",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "2",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "7",
+                                "originalId": "18446744073709551615",
+                                "publicId": "38",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Diff",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "10",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588296316843646:534374",
+                                        "fileId": "3",
+                                        "originalId": "4",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Specular",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "11",
+                                        "dependency": "1",
+                                        "hidden": "false",
+                                        "uid": "1588296316857901:534385",
+                                        "fileId": "5",
+                                        "originalId": "6",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "daisy_pattern_texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "423",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619658410754036:13980",
+                                "fileId": "752",
+                                "originalId": "753",
+                                "publicId": "39",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "3560edcc5d392dada4f1ef490ccdd27d"
+                                }
+                            },
+                            {
+                                "name": "plastic_pattern_texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "439",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619817941530004:69157",
+                                "fileId": "784",
+                                "originalId": "785",
+                                "publicId": "23171",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "3f3063c6df9e0b3c228a8b761911d75e"
+                                }
+                            },
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": {
+                                    "resourceInfoExportKey": {
+                                        "RenderTargetRole": "1"
+                                    }
+                                }
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "logo_flower",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "475",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1620866790809806:1597676",
+                                "fileId": "873",
+                                "originalId": "874",
+                                "publicId": "23255",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "02c707aba43b0d027b5117bf5e09fce7"
+                                }
+                            },
+                            {
+                                "name": "logo_cloud",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "476",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1620866791048110:1597699",
+                                "fileId": "877",
+                                "originalId": "878",
+                                "publicId": "23256",
+                                "source": "",
+                                "additional": {
+                                    "originHash": "5889250042fab2fec4378b84a58338c4"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "13",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Debug Material",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "420",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619658408962621:13617",
+                                "fileId": "746",
+                                "originalId": "747",
+                                "publicId": "17",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Plane Occluder  [EDIT_ME]",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "426",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619658412334058:14322",
+                                "fileId": "760",
+                                "originalId": "761",
+                                "publicId": "21",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Lace Material  [EDIT_ME]",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "422",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619658410425669:13892",
+                                "fileId": "750",
+                                "originalId": "751",
+                                "publicId": "19",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Silk Material  [EDIT_ME]",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "421",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619658409540223:13707",
+                                "fileId": "748",
+                                "originalId": "749",
+                                "publicId": "18",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Stripe Material  [EDIT_ME]",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "418",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619658408073962:13468",
+                                "fileId": "741",
+                                "originalId": "742",
+                                "publicId": "16",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Plastic Material [EDIT_ME]",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "456",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1620346829202136:1982332",
+                                "fileId": "825",
+                                "originalId": "826",
+                                "publicId": "23200",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Body Assets",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "23187",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Body Segmentation",
+                                "type": "1",
+                                "subtype": "14",
+                                "resourceId": "445",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1620159054071395:430827",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Prefabs",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "23240",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Fabric Material Controller",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "473",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1620435106874055:981178",
+                                "fileId": "869",
+                                "originalId": "870",
+                                "publicId": "23241",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Plane Occluder",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "474",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1620764477703843:1544068",
+                                "fileId": "871",
+                                "originalId": "872",
+                                "publicId": "23244",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "3",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "ClothSimulation",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "256",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619107999258754:31097",
+                                "fileId": "493",
+                                "originalId": "18446744073709551615",
+                                "publicId": "4",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "FabricMaterialController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "265",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619108001020651:31396",
+                                "fileId": "505",
+                                "originalId": "18446744073709551615",
+                                "publicId": "5",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "VertexColorController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "327",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619415432530122:10888708",
+                                "fileId": "623",
+                                "originalId": "18446744073709551615",
+                                "publicId": "6",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Tween",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "TweenTypes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "9",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "TweenTransform",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "350",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1619495550801711:25558000",
+                                                "fileId": "666",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "10",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Tween",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "352",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1619495550854722:25558037",
+                                        "fileId": "668",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "11",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TweenManager",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "353",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1619495550894861:25558062",
+                                        "fileId": "669",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "12",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "BindTransform",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "433",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619809127815038:1334267",
+                                "fileId": "775",
+                                "originalId": "18446744073709551615",
+                                "publicId": "42",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Behavior",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "436",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1619817113958670:286318",
+                                "fileId": "778",
+                                "originalId": "18446744073709551615",
+                                "publicId": "23169",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "DisableObjectOnAwake",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "472",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1620434521682054:796629",
+                                "fileId": "868",
+                                "originalId": "18446744073709551615",
+                                "publicId": "23239",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1619658409540223:13707",
+                        "path_list": [
+                            "Materials",
+                            "Silk Material  [EDIT_ME]"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1619658104641598:163674",
+                        "v": {
+                            "prefab": "1620764477703843:1544068",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1619658104641598:163674",
+                                    "v": "1619658104641598:163674"
+                                },
+                                {
+                                    "k": "1619658104641816:163676",
+                                    "v": "1619658104641816:163676"
+                                },
+                                {
+                                    "k": "1619733852107443:687099",
+                                    "v": "1619733852107443:687099"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1605932728822840:223157",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1605932728639388:223065"
+                        },
+                        {
+                            "k": [
+                                "pPlane1"
+                            ],
+                            "v": "1605932728639833:223067"
+                        },
+                        {
+                            "k": [
+                                "pPlane1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1605932728640047:223069"
+                        }
+                    ]
+                },
+                {
+                    "k": "1605932933319530:259689",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1605932933317570:259669"
+                        },
+                        {
+                            "k": [
+                                "pCylinder1"
+                            ],
+                            "v": "1605932933318132:259675"
+                        },
+                        {
+                            "k": [
+                                "pCylinder1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1605932933318359:259677"
+                        }
+                    ]
+                },
+                {
+                    "k": "1612846490896028:9090",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1612846987186850:73273"
+                        },
+                        {
+                            "k": [
+                                "Asset2_10k_default1ss"
+                            ],
+                            "v": "1612846987187506:73275"
+                        },
+                        {
+                            "k": [
+                                "Asset2_10k_default1ss",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1612846987187813:73277"
+                        }
+                    ]
+                },
+                {
+                    "k": "1613088401393191:35545",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1613597788625534:130560"
+                        },
+                        {
+                            "k": [
+                                "Component.AnimationMixer"
+                            ],
+                            "v": "1613597789002185:130685"
+                        },
+                        {
+                            "k": [
+                                "Component.Skin"
+                            ],
+                            "v": "1613597789001871:130683"
+                        },
+                        {
+                            "k": [
+                                "Dress_sim_mesh"
+                            ],
+                            "v": "1613597788999683:130655"
+                        },
+                        {
+                            "k": [
+                                "Dress_sim_mesh",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1613597788999927:130657"
+                        },
+                        {
+                            "k": [
+                                "Dress_sim_mesh_relaxed"
+                            ],
+                            "v": "1613597789000819:130669"
+                        },
+                        {
+                            "k": [
+                                "Dress_sim_mesh_relaxed",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1613597789001063:130671"
+                        },
+                        {
+                            "k": [
+                                "Dress_upper"
+                            ],
+                            "v": "1613597788627211:130562"
+                        },
+                        {
+                            "k": [
+                                "Dress_upper",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1613597788627575:130564"
+                        },
+                        {
+                            "k": [
+                                "Hips"
+                            ],
+                            "v": "1613597788996782:130633"
+                        },
+                        {
+                            "k": [
+                                "Hips",
+                                "Spine"
+                            ],
+                            "v": "1613597788997075:130635"
+                        },
+                        {
+                            "k": [
+                                "Hips",
+                                "Spine",
+                                "Component.Animation"
+                            ],
+                            "v": "1613597788999370:130653"
+                        },
+                        {
+                            "k": [
+                                "Hips",
+                                "Spine",
+                                "Spine1"
+                            ],
+                            "v": "1613597788997288:130637"
+                        },
+                        {
+                            "k": [
+                                "Hips",
+                                "Spine",
+                                "Spine1",
+                                "Component.Animation"
+                            ],
+                            "v": "1613597788998957:130651"
+                        },
+                        {
+                            "k": [
+                                "Hips",
+                                "Spine",
+                                "Spine1",
+                                "Spine2"
+                            ],
+                            "v": "1613597788997496:130639"
+                        },
+                        {
+                            "k": [
+                                "Hips",
+                                "Spine",
+                                "Spine1",
+                                "Spine2",
+                                "Component.Animation"
+                            ],
+                            "v": "1613597788998711:130649"
+                        },
+                        {
+                            "k": [
+                                "Hips",
+                                "Spine",
+                                "Spine1",
+                                "Spine2",
+                                "LeftShoulder"
+                            ],
+                            "v": "1613597788997694:130641"
+                        },
+                        {
+                            "k": [
+                                "Hips",
+                                "Spine",
+                                "Spine1",
+                                "Spine2",
+                                "LeftShoulder",
+                                "Component.Animation"
+                            ],
+                            "v": "1613597788997910:130643"
+                        },
+                        {
+                            "k": [
+                                "Hips",
+                                "Spine",
+                                "Spine1",
+                                "Spine2",
+                                "RightShoulder"
+                            ],
+                            "v": "1613597788998247:130645"
+                        },
+                        {
+                            "k": [
+                                "Hips",
+                                "Spine",
+                                "Spine1",
+                                "Spine2",
+                                "RightShoulder",
+                                "Component.Animation"
+                            ],
+                            "v": "1613597788998456:130647"
+                        }
+                    ]
+                },
+                {
+                    "k": "1613516077190600:42282",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1613666198867212:222151"
+                        },
+                        {
+                            "k": [
+                                "Component.AnimationMixer"
+                            ],
+                            "v": "1613666199393732:222236"
+                        },
+                        {
+                            "k": [
+                                "floor_collider_anim"
+                            ],
+                            "v": "1613666198868179:222153"
+                        },
+                        {
+                            "k": [
+                                "floor_collider_anim",
+                                "Component.Animation"
+                            ],
+                            "v": "1613666199393333:222234"
+                        },
+                        {
+                            "k": [
+                                "floor_collider_anim",
+                                "floor_collider"
+                            ],
+                            "v": "1613666198868753:222155"
+                        },
+                        {
+                            "k": [
+                                "floor_collider_anim",
+                                "floor_collider",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1613666198869249:222157"
+                        }
+                    ]
+                },
+                {
+                    "k": "1613525267888310:861102",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1613525267883668:861086"
+                        },
+                        {
+                            "k": [
+                                "Dress_sim_mesh_relaxed_umbrella_fixed"
+                            ],
+                            "v": "1613525267884573:861088"
+                        },
+                        {
+                            "k": [
+                                "Dress_sim_mesh_relaxed_umbrella_fixed",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1613525267884919:861090"
+                        }
+                    ]
+                },
+                {
+                    "k": "1614103757457820:34504",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1614104329647978:93947"
+                        },
+                        {
+                            "k": [
+                                "Component.Skin"
+                            ],
+                            "v": "1614104329678544:94129"
+                        },
+                        {
+                            "k": [
+                                "Skeleton"
+                            ],
+                            "v": "1614104329656525:93997"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips"
+                            ],
+                            "v": "1614104329656860:93999"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "leftupleg"
+                            ],
+                            "v": "1614104329675529:94109"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "leftupleg",
+                                "leftleg"
+                            ],
+                            "v": "1614104329675847:94111"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "leftupleg",
+                                "leftleg",
+                                "leftfoot"
+                            ],
+                            "v": "1614104329676137:94113"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "leftupleg",
+                                "leftleg",
+                                "leftfoot",
+                                "lefttoebase"
+                            ],
+                            "v": "1614104329676418:94115"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "leftupleg",
+                                "leftleg",
+                                "leftfoot",
+                                "lefttoebase",
+                                "lefttoe_end"
+                            ],
+                            "v": "1614104329676705:94117"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "rightupleg"
+                            ],
+                            "v": "1614104329677121:94119"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "rightupleg",
+                                "rightleg"
+                            ],
+                            "v": "1614104329677427:94121"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "rightupleg",
+                                "rightleg",
+                                "rightfoot"
+                            ],
+                            "v": "1614104329677708:94123"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "rightupleg",
+                                "rightleg",
+                                "rightfoot",
+                                "righttoebase"
+                            ],
+                            "v": "1614104329677977:94125"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "rightupleg",
+                                "rightleg",
+                                "rightfoot",
+                                "righttoebase",
+                                "righttoe_end"
+                            ],
+                            "v": "1614104329678251:94127"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine"
+                            ],
+                            "v": "1614104329657140:94001"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1"
+                            ],
+                            "v": "1614104329657426:94003"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2"
+                            ],
+                            "v": "1614104329657688:94005"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder"
+                            ],
+                            "v": "1614104329658903:94013"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm"
+                            ],
+                            "v": "1614104329659337:94015"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm"
+                            ],
+                            "v": "1614104329659739:94017"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand"
+                            ],
+                            "v": "1614104329660025:94019"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandindex1"
+                            ],
+                            "v": "1614104329661306:94029"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandindex1",
+                                "lefthandindex2"
+                            ],
+                            "v": "1614104329661568:94031"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandindex1",
+                                "lefthandindex2",
+                                "lefthandindex3"
+                            ],
+                            "v": "1614104329661826:94033"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandindex1",
+                                "lefthandindex2",
+                                "lefthandindex3",
+                                "lefthandindex4"
+                            ],
+                            "v": "1614104329662091:94035"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandmiddle1"
+                            ],
+                            "v": "1614104329662376:94037"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandmiddle1",
+                                "lefthandmiddle2"
+                            ],
+                            "v": "1614104329662667:94039"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandmiddle1",
+                                "lefthandmiddle2",
+                                "lefthandmiddle3"
+                            ],
+                            "v": "1614104329662943:94041"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandmiddle1",
+                                "lefthandmiddle2",
+                                "lefthandmiddle3",
+                                "lefthandmiddle4"
+                            ],
+                            "v": "1614104329663219:94043"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandpinky1"
+                            ],
+                            "v": "1614104329664814:94053"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandpinky1",
+                                "lefthandpinky2"
+                            ],
+                            "v": "1614104329665150:94055"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandpinky1",
+                                "lefthandpinky2",
+                                "lefthandpinky3"
+                            ],
+                            "v": "1614104329665459:94057"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandpinky1",
+                                "lefthandpinky2",
+                                "lefthandpinky3",
+                                "lefthandpinky4"
+                            ],
+                            "v": "1614104329665779:94059"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandring1"
+                            ],
+                            "v": "1614104329663508:94045"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandring1",
+                                "lefthandring2"
+                            ],
+                            "v": "1614104329663847:94047"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandring1",
+                                "lefthandring2",
+                                "lefthandring3"
+                            ],
+                            "v": "1614104329664197:94049"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandring1",
+                                "lefthandring2",
+                                "lefthandring3",
+                                "lefthandring4"
+                            ],
+                            "v": "1614104329664504:94051"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandthumb1"
+                            ],
+                            "v": "1614104329660282:94021"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandthumb1",
+                                "lefthandthumb2"
+                            ],
+                            "v": "1614104329660531:94023"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandthumb1",
+                                "lefthandthumb2",
+                                "lefthandthumb3"
+                            ],
+                            "v": "1614104329660783:94025"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "leftshoulder",
+                                "leftarm",
+                                "leftforearm",
+                                "lefthand",
+                                "lefthandthumb1",
+                                "lefthandthumb2",
+                                "lefthandthumb3",
+                                "lefthandthumb4"
+                            ],
+                            "v": "1614104329661037:94027"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "neck"
+                            ],
+                            "v": "1614104329657961:94007"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "neck",
+                                "head"
+                            ],
+                            "v": "1614104329658293:94009"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "neck",
+                                "head",
+                                "headtop_end"
+                            ],
+                            "v": "1614104329658622:94011"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder"
+                            ],
+                            "v": "1614104329666139:94061"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm"
+                            ],
+                            "v": "1614104329666505:94063"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm"
+                            ],
+                            "v": "1614104329666804:94065"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand"
+                            ],
+                            "v": "1614104329667101:94067"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandindex1"
+                            ],
+                            "v": "1614104329669506:94077"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandindex1",
+                                "righthandindex2"
+                            ],
+                            "v": "1614104329669868:94079"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandindex1",
+                                "righthandindex2",
+                                "righthandindex3"
+                            ],
+                            "v": "1614104329670150:94081"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandindex1",
+                                "righthandindex2",
+                                "righthandindex3",
+                                "righthandindex4"
+                            ],
+                            "v": "1614104329670590:94083"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandmiddle1"
+                            ],
+                            "v": "1614104329671029:94085"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandmiddle1",
+                                "righthandmiddle2"
+                            ],
+                            "v": "1614104329671494:94087"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandmiddle1",
+                                "righthandmiddle2",
+                                "righthandmiddle3"
+                            ],
+                            "v": "1614104329671845:94089"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandmiddle1",
+                                "righthandmiddle2",
+                                "righthandmiddle3",
+                                "righthandmiddle4"
+                            ],
+                            "v": "1614104329672364:94091"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandpinky1"
+                            ],
+                            "v": "1614104329674193:94101"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandpinky1",
+                                "righthandpinky2"
+                            ],
+                            "v": "1614104329674567:94103"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandpinky1",
+                                "righthandpinky2",
+                                "righthandpinky3"
+                            ],
+                            "v": "1614104329674898:94105"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandpinky1",
+                                "righthandpinky2",
+                                "righthandpinky3",
+                                "righthandpinky4"
+                            ],
+                            "v": "1614104329675219:94107"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandring1"
+                            ],
+                            "v": "1614104329672760:94093"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandring1",
+                                "righthandring2"
+                            ],
+                            "v": "1614104329673064:94095"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandring1",
+                                "righthandring2",
+                                "righthandring3"
+                            ],
+                            "v": "1614104329673408:94097"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandring1",
+                                "righthandring2",
+                                "righthandring3",
+                                "righthandring4"
+                            ],
+                            "v": "1614104329673811:94099"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandthumb1"
+                            ],
+                            "v": "1614104329667392:94069"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandthumb1",
+                                "righthandthumb2"
+                            ],
+                            "v": "1614104329667715:94071"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandthumb1",
+                                "righthandthumb2",
+                                "righthandthumb3"
+                            ],
+                            "v": "1614104329668693:94073"
+                        },
+                        {
+                            "k": [
+                                "Skeleton",
+                                "hips",
+                                "spine",
+                                "spine1",
+                                "spine2",
+                                "rightshoulder",
+                                "rightarm",
+                                "rightforearm",
+                                "righthand",
+                                "righthandthumb1",
+                                "righthandthumb2",
+                                "righthandthumb3",
+                                "righthandthumb4"
+                            ],
+                            "v": "1614104329669104:94075"
+                        },
+                        {
+                            "k": [
+                                "cloth_items"
+                            ],
+                            "v": "1614104329649501:93949"
+                        },
+                        {
+                            "k": [
+                                "cloth_items",
+                                "coat"
+                            ],
+                            "v": "1614104329653152:93969"
+                        },
+                        {
+                            "k": [
+                                "cloth_items",
+                                "coat",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1614104329653508:93971"
+                        },
+                        {
+                            "k": [
+                                "cloth_items",
+                                "hood"
+                            ],
+                            "v": "1614104329649953:93951"
+                        },
+                        {
+                            "k": [
+                                "cloth_items",
+                                "hood",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1614104329650370:93953"
+                        },
+                        {
+                            "k": [
+                                "cloth_items",
+                                "sleeves"
+                            ],
+                            "v": "1614104329654852:93983"
+                        },
+                        {
+                            "k": [
+                                "cloth_items",
+                                "sleeves",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1614104329655228:93985"
+                        }
+                    ]
+                },
+                {
+                    "k": "1614106621723443:332303",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1614106621720354:332287"
+                        },
+                        {
+                            "k": [
+                                "head_occluder"
+                            ],
+                            "v": "1614106621721202:332289"
+                        },
+                        {
+                            "k": [
+                                "head_occluder",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1614106621721554:332291"
+                        }
+                    ]
+                },
+                {
+                    "k": "1614202455717503:72654",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1614211670205556:1044759"
+                        },
+                        {
+                            "k": [
+                                "pPlane1"
+                            ],
+                            "v": "1614211670206097:1044761"
+                        },
+                        {
+                            "k": [
+                                "pPlane1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1614211670206371:1044763"
+                        }
+                    ]
+                },
+                {
+                    "k": "1614216489835429:1530135",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1614902370850810:3238567"
+                        },
+                        {
+                            "k": [
+                                "pPlane2"
+                            ],
+                            "v": "1614902370851276:3238569"
+                        },
+                        {
+                            "k": [
+                                "pPlane2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1614902370851514:3238571"
+                        }
+                    ]
+                },
+                {
+                    "k": "1614898764072102:2213207",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1614898763721497:2213088"
+                        },
+                        {
+                            "k": [
+                                "pCube1"
+                            ],
+                            "v": "1614898763721986:2213090"
+                        },
+                        {
+                            "k": [
+                                "pCube1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1614898763722208:2213092"
+                        }
+                    ]
+                },
+                {
+                    "k": "1614898765354261:2214691",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1614898765352251:2214675"
+                        },
+                        {
+                            "k": [
+                                "pSphere1"
+                            ],
+                            "v": "1614898765352778:2214677"
+                        },
+                        {
+                            "k": [
+                                "pSphere1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1614898765353041:2214679"
+                        }
+                    ]
+                },
+                {
+                    "k": "1614905064153494:3799893",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1614905064149815:3799877"
+                        },
+                        {
+                            "k": [
+                                "collider"
+                            ],
+                            "v": "1614905064150583:3799879"
+                        },
+                        {
+                            "k": [
+                                "collider",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1614905064151016:3799881"
+                        }
+                    ]
+                },
+                {
+                    "k": "1614909211155968:4752875",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1614990350691936:4869106"
+                        },
+                        {
+                            "k": [
+                                "pPlane2"
+                            ],
+                            "v": "1614990350692597:4869108"
+                        },
+                        {
+                            "k": [
+                                "pPlane2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1614990350692831:4869110"
+                        }
+                    ]
+                },
+                {
+                    "k": "1614909855700618:4873413",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1614909855696715:4873393"
+                        },
+                        {
+                            "k": [
+                                "Component.AnimationMixer"
+                            ],
+                            "v": "1614909855699735:4873411"
+                        },
+                        {
+                            "k": [
+                                "pSphere3"
+                            ],
+                            "v": "1614909855697309:4873395"
+                        },
+                        {
+                            "k": [
+                                "pSphere3",
+                                "Component.Animation"
+                            ],
+                            "v": "1614909855699374:4873409"
+                        },
+                        {
+                            "k": [
+                                "pSphere3",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1614909855697619:4873397"
+                        }
+                    ]
+                },
+                {
+                    "k": "1614989313907713:4585728",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1614989313810320:4585647"
+                        },
+                        {
+                            "k": [
+                                "Component.AnimationMixer"
+                            ],
+                            "v": "1614989313906854:4585726"
+                        },
+                        {
+                            "k": [
+                                "pCube1"
+                            ],
+                            "v": "1614989313810819:4585649"
+                        },
+                        {
+                            "k": [
+                                "pCube1",
+                                "Component.Animation"
+                            ],
+                            "v": "1614989313906419:4585724"
+                        },
+                        {
+                            "k": [
+                                "pCube1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1614989313811045:4585651"
+                        }
+                    ]
+                },
+                {
+                    "k": "1614990363718133:4874715",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1614990514453125:4886848"
+                        },
+                        {
+                            "k": [
+                                "pPlane2"
+                            ],
+                            "v": "1614990514453785:4886850"
+                        },
+                        {
+                            "k": [
+                                "pPlane2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1614990514454047:4886852"
+                        }
+                    ]
+                },
+                {
+                    "k": "1615952365859627:2541723",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1615953673955941:2788322"
+                        },
+                        {
+                            "k": [
+                                "Arm"
+                            ],
+                            "v": "1615953673956591:2788324"
+                        },
+                        {
+                            "k": [
+                                "Arm",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1615953673956916:2788326"
+                        }
+                    ]
+                },
+                {
+                    "k": "1615953737943724:2801708",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1615959866082904:3429751"
+                        },
+                        {
+                            "k": [
+                                "Shirt"
+                            ],
+                            "v": "1615959866083774:3429753"
+                        },
+                        {
+                            "k": [
+                                "Shirt",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1615959866084045:3429755"
+                        }
+                    ]
+                },
+                {
+                    "k": "1615958225267015:3211594",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1615958225263104:3211578"
+                        },
+                        {
+                            "k": [
+                                "Sphere002"
+                            ],
+                            "v": "1615958225264356:3211580"
+                        },
+                        {
+                            "k": [
+                                "Sphere002",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1615958225265004:3211582"
+                        }
+                    ]
+                },
+                {
+                    "k": "1616212195905205:19633",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1616212195688819:19538"
+                        },
+                        {
+                            "k": [
+                                "ZBrush_defualt_group"
+                            ],
+                            "v": "1616212195689962:19540"
+                        },
+                        {
+                            "k": [
+                                "ZBrush_defualt_group",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1616212195690259:19542"
+                        }
+                    ]
+                },
+                {
+                    "k": "1616548825815950:163534",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1616548825688193:163463"
+                        },
+                        {
+                            "k": [
+                                "Tank_01"
+                            ],
+                            "v": "1616548825813918:163520"
+                        },
+                        {
+                            "k": [
+                                "Tank_01",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1616548825814274:163522"
+                        },
+                        {
+                            "k": [
+                                "Tank_02"
+                            ],
+                            "v": "1616548825689062:163465"
+                        },
+                        {
+                            "k": [
+                                "Tank_02",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1616548825689469:163467"
+                        }
+                    ]
+                },
+                {
+                    "k": "1616559277011463:160291",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1616562510591722:1089111"
+                        },
+                        {
+                            "k": [
+                                "Cape:Plane001"
+                            ],
+                            "v": "1616562510592648:1089113"
+                        },
+                        {
+                            "k": [
+                                "Cape:Plane001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1616562510593022:1089115"
+                        }
+                    ]
+                },
+                {
+                    "k": "1616559307876669:167739",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1616559307873333:167723"
+                        },
+                        {
+                            "k": [
+                                "Cape:Cylinder007"
+                            ],
+                            "v": "1616559307874168:167725"
+                        },
+                        {
+                            "k": [
+                                "Cape:Cylinder007",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1616559307874582:167727"
+                        }
+                    ]
+                },
+                {
+                    "k": "1619115264231475:1578559",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1619115263973823:1578402"
+                        },
+                        {
+                            "k": [
+                                "Cape:Plane001"
+                            ],
+                            "v": "1619115263974409:1578404"
+                        },
+                        {
+                            "k": [
+                                "Cape:Plane001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1619115263974738:1578406"
+                        }
+                    ]
+                },
+                {
+                    "k": "1619115350905946:1630910",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1619212581878794:6633232"
+                        },
+                        {
+                            "k": [
+                                "Strip Cape"
+                            ],
+                            "v": "1619212581879339:6633234"
+                        },
+                        {
+                            "k": [
+                                "Strip Cape",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1619212581879579:6633236"
+                        }
+                    ]
+                },
+                {
+                    "k": "1619115355005199:1641941",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1619212119138440:6468768"
+                        },
+                        {
+                            "k": [
+                                "Silk Cape"
+                            ],
+                            "v": "1619212119138926:6468770"
+                        },
+                        {
+                            "k": [
+                                "Silk Cape",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1619212119139178:6468772"
+                        }
+                    ]
+                },
+                {
+                    "k": "1619115357290535:1652190",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1619115357288694:1652174"
+                        },
+                        {
+                            "k": [
+                                "Lace Cape"
+                            ],
+                            "v": "1619115357289198:1652176"
+                        },
+                        {
+                            "k": [
+                                "Lace Cape",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1619115357289470:1652178"
+                        }
+                    ]
+                },
+                {
+                    "k": "1619115359365019:1662464",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1619115359360797:1662448"
+                        },
+                        {
+                            "k": [
+                                "Wizard Cape"
+                            ],
+                            "v": "1619115359361657:1662450"
+                        },
+                        {
+                            "k": [
+                                "Wizard Cape",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1619115359361967:1662452"
+                        }
+                    ]
+                },
+                {
+                    "k": "1619115704400525:1826385",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1619211727697259:6358210"
+                        },
+                        {
+                            "k": [
+                                "Tutu"
+                            ],
+                            "v": "1619211727698153:6358212"
+                        },
+                        {
+                            "k": [
+                                "Tutu",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1619211727698595:6358214"
+                        }
+                    ]
+                },
+                {
+                    "k": "1619133654984605:573599",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1619133654794231:573486"
+                        },
+                        {
+                            "k": [
+                                "Cape:Plane001"
+                            ],
+                            "v": "1619133654794678:573488"
+                        },
+                        {
+                            "k": [
+                                "Cape:Plane001",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1619133654794884:573490"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1619108002002784:31564",
+                    "v": {
+                        "infos": {
+                            "originalSize": "67353",
+                            "compressedSize": "67353",
+                            "originalRAM": "921600",
+                            "compressedRAM": "1225728",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0"
+                            }
+                        },
+                        "uncompressed_file": "881",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "2a3055d974a09ff6b5d07cf96c7cb10e",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "883"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1619473092688053:17400012",
+                    "v": {
+                        "infos": {
+                            "originalSize": "9485",
+                            "compressedSize": "9485",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1394606",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0"
+                            }
+                        },
+                        "uncompressed_file": "882",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "f23e70f2e245bf4294d77d1c7be800ce",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "884"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1619658410754036:13980",
+                    "v": {
+                        "infos": {
+                            "originalSize": "17650",
+                            "compressedSize": "16096",
+                            "originalRAM": "921600",
+                            "compressedRAM": "115200",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "866",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "3560edcc5d392dada4f1ef490ccdd27d",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "867"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1619817941530004:69157",
+                    "v": {
+                        "infos": {
+                            "originalSize": "3810",
+                            "compressedSize": "4950",
+                            "originalRAM": "2178432",
+                            "compressedRAM": "272304",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "821",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "3f3063c6df9e0b3c228a8b761911d75e",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "822"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1620866790809806:1597676",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5466",
+                            "compressedSize": "6856",
+                            "originalRAM": "409600",
+                            "compressedRAM": "51200",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "875",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "02c707aba43b0d027b5117bf5e09fce7",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "876"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1620866791048110:1597699",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1790",
+                            "compressedSize": "2894",
+                            "originalRAM": "409600",
+                            "compressedRAM": "51200",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "879",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "5889250042fab2fec4378b84a58338c4",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "880"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1618768845119276:82985",
+                    "v": "3UvyfXVtEo7LUb6RwP0r6c"
+                },
+                {
+                    "k": "1618768845353153:83101",
+                    "v": "3UvyfXVtEo7LUb6RwP0r6c"
+                },
+                {
+                    "k": "1619131616926935:72757",
+                    "v": "7oYToNbiaOeoHn7kR77ctB"
+                },
+                {
+                    "k": "1619131617131257:72882",
+                    "v": "7oYToNbiaOeoHn7kR77ctB"
+                },
+                {
+                    "k": "1619131617461570:72998",
+                    "v": "7oYToNbiaOeoHn7kR77ctB"
+                },
+                {
+                    "k": "1619131617621738:73021",
+                    "v": "7oYToNbiaOeoHn7kR77ctB"
+                },
+                {
+                    "k": "1619659432827405:86405",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659432865346:86420",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659432886674:86432",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659432925342:86451",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659432945423:86463",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433015419:86482",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433065459:86501",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433087396:86517",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433129025:86532",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433164961:86548",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433214993:86563",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433265707:86582",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433288600:86598",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433331451:86613",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433379496:86632",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433414840:86651",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433464586:86674",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433514927:86693",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433566435:86708",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433615413:86731",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433665783:86750",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433715413:86769",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433765898:86784",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433814919:86807",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433864533:86826",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433915476:86845",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659433966518:86860",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434015471:86883",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434065900:86898",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434115139:86921",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434165947:86936",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434215734:86959",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434266573:86974",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434315238:86997",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434366510:87012",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434415425:87035",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434465740:87050",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434515409:87073",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434565887:87088",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434615938:87111",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434665533:87126",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434715112:87149",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434766321:87164",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434815521:87187",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434866130:87202",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434915310:87225",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659434966174:87240",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659435015452:87263",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659435116064:87289",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659435240071:87754",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659435334727:87777",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659435415050:87792",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659435453139:87855",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659435688650:87870",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659435923970:87889",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659436236422:87900",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619659436388520:87916",
+                    "v": "6YZywrW3sYlxzaPw3tILsx"
+                },
+                {
+                    "k": "1619720959629423:99273",
+                    "v": "BLya6iXdMGIA1ARgbcG3W"
+                },
+                {
+                    "k": "1619720959848576:99380",
+                    "v": "BLya6iXdMGIA1ARgbcG3W"
+                },
+                {
+                    "k": "1619720960107107:99486",
+                    "v": "BLya6iXdMGIA1ARgbcG3W"
+                },
+                {
+                    "k": "1620344494752101:1593277",
+                    "v": "4WlNAojskxKxRJHfuKSUgT"
+                },
+                {
+                    "k": "1620344557748705:1604909",
+                    "v": "3UvyfXVtEo7LUb6RwP0r6c"
+                }
+            ]
+        }
+    },
+    "templateName": "Cloth Simulation",
+    "templateUrl": "https:\/\/assets.ctfassets.net\/xyb83mibqg29\/6hs9DPQmE54HefrOlZqODp\/24abe88414655ffefaad783e8a25457e\/Cloth_Simulation_Template.zip"
+}
